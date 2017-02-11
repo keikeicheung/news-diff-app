@@ -1,0 +1,10 @@
+.loading-title-container {
+    height: 100%;
+    background-color: lightskyblue;
+}
+
+.loading-title {
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
